@@ -1,12 +1,14 @@
 # Operating_sys_project
 
 ## Questions
-Q1.  C program that forks a child process that ultimately becomes a zombie process.
-A zombie process refers to a child process whose parent process is sleeping. In the given code, we first fork a process(parent) and put it to sleep for 15 seconds. The child process 
+Q1.  ![image](https://user-images.githubusercontent.com/94753995/200772207-76eb8534-74ab-4466-a19c-277d779c5971.png)
+ 
 
 
 
-2.C program called time.c that determines the amount of time necessary to run a command from the command line.
+2.
+![image](https://user-images.githubusercontent.com/94753995/200773344-550ac8c7-fb4b-4c50-86cd-1b7d66d37a36.png)
+
 
 
 
@@ -23,6 +25,7 @@ A zombie process refers to a child process whose parent process is sleeping. In 
 
 ## Screenshots
 ### Question 1
+![image](https://user-images.githubusercontent.com/94753995/200771265-422e7a83-5391-4da1-a9d7-b70d60777444.png)
 
 <hr>
 
@@ -40,3 +43,9 @@ References:
 
 1. https://www.alltestanswers.com/operating-systems-fundamentals-assignment-2/ (Q1)
 2. https://github.com/PRASANNA-416/CS252-OS-Project-2022(Q2)
+
+
+
+<hr>
+Made by :
+Devvrat Ashtaputre (201EC118)
