@@ -22,12 +22,12 @@
 <hr>
 
 ## Screenshots
-### Question 1
+### Output 1
 ![image](https://user-images.githubusercontent.com/94753995/200771265-422e7a83-5391-4da1-a9d7-b70d60777444.png)
 
 <hr>
 
-### Question 2
+### Output 2
 <hr>
 
 ![image](https://user-images.githubusercontent.com/94753995/200759790-93095e2f-f166-46fa-a7e1-120fd1d067a4.png)
