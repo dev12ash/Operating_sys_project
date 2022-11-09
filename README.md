@@ -7,6 +7,11 @@ A zombie process refers to a child process whose parent process is sleeping. In 
 
 
 2.C program called time.c that determines the amount of time necessary to run a command from the command line.
+
+
+
+
+
 <hr>
 
 ## Requirements
@@ -22,3 +27,10 @@ A zombie process refers to a child process whose parent process is sleeping. In 
 ### Question 2
 <hr>
 
+
+
+
+<hr>
+References:
+https://github.com/OmerBaddour/Operating_Systems_Code (Q2)
+https://www.alltestanswers.com/operating-systems-fundamentals-assignment-2/ (Q1)
