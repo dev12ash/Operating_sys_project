@@ -15,7 +15,9 @@ A zombie process refers to a child process whose parent process is sleeping. In 
 <hr>
 
 ## Requirements
-
+1. Installed Ubuntu system (preferably dual boot)
+2. GCC
+3. VSCode
 
 <hr>
 
@@ -35,5 +37,6 @@ A zombie process refers to a child process whose parent process is sleeping. In 
 
 <hr>
 References:
-https://github.com/PRASANNA-416/CS252-OS-Project-2022(Q2)
-https://www.alltestanswers.com/operating-systems-fundamentals-assignment-2/ (Q1)
+
+1. https://www.alltestanswers.com/operating-systems-fundamentals-assignment-2/ (Q1)
+2. https://github.com/PRASANNA-416/CS252-OS-Project-2022(Q2)
