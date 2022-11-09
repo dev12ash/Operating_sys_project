@@ -1,12 +1,10 @@
 # Operating_sys_project
 
 ## Questions
-Q1.  ![image](https://user-images.githubusercontent.com/94753995/200772207-76eb8534-74ab-4466-a19c-277d779c5971.png)
+
+![image](https://user-images.githubusercontent.com/94753995/200775588-3fcd038d-7286-4ca0-b136-6c4cbf8abc18.png)
  
 
-
-
-2.
 ![image](https://user-images.githubusercontent.com/94753995/200773344-550ac8c7-fb4b-4c50-86cd-1b7d66d37a36.png)
 
 
