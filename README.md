@@ -27,10 +27,13 @@ A zombie process refers to a child process whose parent process is sleeping. In 
 ### Question 2
 <hr>
 
+![image](https://user-images.githubusercontent.com/94753995/200759790-93095e2f-f166-46fa-a7e1-120fd1d067a4.png)
+
+
 
 
 
 <hr>
 References:
-https://github.com/OmerBaddour/Operating_Systems_Code (Q2)
+https://github.com/PRASANNA-416/CS252-OS-Project-2022(Q2)
 https://www.alltestanswers.com/operating-systems-fundamentals-assignment-2/ (Q1)
